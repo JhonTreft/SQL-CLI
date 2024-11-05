@@ -1,0 +1,6 @@
+click==8.1.7
+mysql==0.0.3
+mysql-connector-python==9.1.0
+mysqlclient==2.2.5
+psycopg==3.2.3
+typing_extensions==4.12.2
