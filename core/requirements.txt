@@ -1,6 +1,9 @@
 click==8.1.7
+colorama==0.4.6
 mysql==0.0.3
 mysql-connector-python==9.1.0
-mysqlclient==2.2.5
-psycopg==3.2.3
+prettytable==3.12.0
+prompt_toolkit==3.0.48
+psycopg2==2.9.10
 typing_extensions==4.12.2
+wcwidth==0.2.13
